@@ -12,7 +12,7 @@ Canva-Clone is a pixel-perfect, visually stunning replica of the Canva user inte
 
 ## Live Demo
 
-- Experience the stunning Canva-Clone UI in action by visiting the Live Demo.
+- Experience the stunning Canva-Clone UI in action by visiting the [Live Demo](https://canva-cloned.netlify.app/).
 
 ## Technologies Used
 
